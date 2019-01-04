@@ -1,1 +1,1 @@
-# End-to-End-sequence-labeling-biLSTMs-CNN-CRFs-vietnamese-
+# End-to-End-sequence-labeling-biLSTMs-CNN-CRFs (tutorial in vietnamese)
